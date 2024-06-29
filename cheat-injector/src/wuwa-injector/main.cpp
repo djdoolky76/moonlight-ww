@@ -12,7 +12,7 @@
 
 const std::string GlobalWuwaProcName = "Client-Win64-Shipping.exe";
 const char* DLLPath = "moonlight.dll";
-const char* BypassDLLPath = "bypass.dll";
+const char* BypassDLLPath = "Bypass.dll";
 
 static CSimpleIni ini;
 
